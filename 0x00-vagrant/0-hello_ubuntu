@@ -1,0 +1,2 @@
+the uname command is a standard Unix command used to print system information. When you run it without any options, it typically prints the operating system name. In the case of Ubuntu, it would print Linux
+This indicates that the system is running the Linux kernel.
